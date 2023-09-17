@@ -5,7 +5,7 @@ Trabalho como Jovem Aprendiz Adm, E tenho como hobby estudar e desenvolver apps.
 Estudo Java e Javascript e prentendo no futuro estudar Swift.
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathferrari&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathferrari&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
