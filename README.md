@@ -3,6 +3,9 @@
 Atualmente estudo na escola Etec Prof. Eudécio Luiz Vicente, e estou cursando o 2 ano do Ensino Médio integrado a um curso de Desenvolvimento de Sistemas.
 Trabalho como Jovem Aprendiz Adm, E tenho como hobby estudar e desenvolver apps.<br>
 Estudo Java e Javascript e prentendo no futuro estudar Swift.
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathferrari)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
