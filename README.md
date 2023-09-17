@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá sou o Matheus Ferrari!
 
 Atualmente estudo na escola Etec Prof. Eudécio Luiz Vicente, e estou cursando o 2 ano do Ensino Médio integrado a um curso de Desenvolvimento de Sistemas.
 Trabalho como Jovem Aprendiz Adm, E tenho como hobby estudar e desenvolver apps.<br>
